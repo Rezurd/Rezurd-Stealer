@@ -3,12 +3,19 @@
 
  
  
+ 
  Telegram Session Hijacking
+ 
  Discord Tokens Retrieval
+ 
  Cryptocurrency Wallet Stealer (Metamask, Exodus, Extension)
+ 
  Roblox Accounts
+ 
  Passwords Stealer
+ 
  Cookies Stealer V130 LAST UPDATE
+ 
  Cards Stealer
  Browser History Stealer
  Machine Info Stealer
